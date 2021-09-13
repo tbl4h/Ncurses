@@ -1,0 +1,4 @@
+// the configured options and settings for Tutorial
+#define ncurses_VERSION_MAJOR @ncurses_VERSION_MAJOR@
+#define ncurses_VERSION_MINOR @ncurses_VERSION_MINOR@
+#cmakedefine USE_MYMATH
